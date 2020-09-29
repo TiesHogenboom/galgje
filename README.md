@@ -1,4 +1,5 @@
 # Galgje
+# ! Student 2 had afspraak en moest gaan in de les.
 
 ## Te raden woord
 
